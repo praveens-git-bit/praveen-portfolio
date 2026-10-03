@@ -169,7 +169,13 @@ const CloudPortfolio = () => {
 
   const experience = [
     {
-      year: '2024 - Present',
+      year: '2026 - Present',
+      title: 'Platform Engineer',
+      company: 'Kenvue GCC',
+      description: 'Engineering Supply Chain products by architecting, provisioning, and managing Azure cloud infrastructure required to run production applications and integrate data from manufacturing plants. Empowering development teams through secure and scalable Azure resources, infrastructure automation, application deployments, monitoring, and operational support while ensuring reliability, governance, security, and adherence to cloud best practices.',
+    },
+    {
+      year: '2024 - 2026',
       title: 'Cloud Consultant I',
       company: 'Spektra Systems LLC',
       description: 'Architecting production-grade Azure environments with focus on governance, security, cost optimization, and operational reliability. Leading customer demos, designing scalable lab infrastructures, implementing AKS-based workloads, and enforcing best practices using ARM templates and automation scripts.',
